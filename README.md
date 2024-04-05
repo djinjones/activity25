@@ -6,3 +6,5 @@ I enjoy JavaScript because it utilizes both Functional programming and Object-or
 
 ![some weird guy](./cad_dan.PNG)
 who is this guy
+
+ <!-- Let's Go Nuggets -->
